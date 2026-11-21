@@ -1,0 +1,23 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Login Page</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="login-box">
+        <h1>Welcome Back!</h1>
+        <p>Please Login to Continue</p>
+
+        <input type="email" placeholder="Enter Email">
+        <input type="password" placeholder="Enter Password">
+
+        <button>Login</button>
+
+        <p>Don't have an account? Sign Up</p>
+    </div>
+
+</body>
+</html>
